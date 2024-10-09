@@ -5,6 +5,7 @@ set -ouex pipefail
 utility=(
   "flameshot"
   "nextcloud-client"
+  "plank"
   "sg3_utils"
 )
 
