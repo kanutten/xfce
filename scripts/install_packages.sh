@@ -47,7 +47,7 @@ utility=(
   "fuse-encfs"
   "gcc"
   "git-credential-libsecret"
-  #"glow"
+  "glow"
   #"gum"
   "hplip"
   "krb5-workstation"
